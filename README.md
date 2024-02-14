@@ -7,3 +7,6 @@ Write a small program for the TIC-80 inspired by one-liners and 10:PRINT and exp
 - <https://github.com/nesbox/TIC-80/wiki>
 - <https://github.com/nesbox/TIC-80/wiki/Console>
 - <https://github.com/nesbox/TIC-80/wiki/external-editor>
+
+## Play Now:
+https://sydykbaeva-a.github.io/tic-80-hello-world-sydykbaeva-a/
